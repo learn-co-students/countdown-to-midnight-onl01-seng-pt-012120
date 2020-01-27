@@ -21,8 +21,6 @@ while x < 10
 end
 ```
 Will print this:
-
-```
 1 is less than 10
 2 is less than 10
 3 is less than 10
